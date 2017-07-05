@@ -1,4 +1,5 @@
 data/training.csv
 data/test.csv
 .ipynb_checkpoints/*
+__pycache__/*
 
