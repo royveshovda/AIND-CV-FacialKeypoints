@@ -1,5 +1,6 @@
 data/training.csv
 data/test.csv
+my_model.h5
 .ipynb_checkpoints/*
 __pycache__/*
 
